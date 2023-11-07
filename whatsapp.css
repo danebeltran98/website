@@ -1,0 +1,13 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: #36d5a8;
+}
+
+.position{
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
